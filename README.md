@@ -1,2 +1,2 @@
 # Holey
-Robot scripts for Hoey
+Robot scripts for Holey
